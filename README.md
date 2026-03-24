@@ -24,7 +24,7 @@ Enfoque    →  Frontend · Deep Learning · LLMs · Game Dev · 3D
 Filosofía  →  Código con la sensibilidad visual del diseño multimedia
 ```
 
-> Construyo soluciones en la intersección del **código** y el **diseño visual**. Me apasionan la IA, los modelos de lenguaje y hacer que lo técnico también sea bello.
+> Construyo soluciones en la intersección del **código** y el **diseño visual**.
 
 ---
 
@@ -62,13 +62,11 @@ Filosofía  →  Código con la sensibilidad visual del diseño multimedia
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🤟 **SignBridge** | Reconocimiento de lenguaje de señas en tiempo real con visión por computadora | `PyTorch` `OpenCV` `Computer Vision` |
-| 🎮 **Shadow Flip** | Diseño completo de juego de plataformas — arte, mecánicas y experiencia de usuario | `Unity` `C#` `Game Design` |
-| 🧠 **Apnea Classifier** | Clasificación de apnea del sueño mediante Deep Learning sobre señales biomédicas | `Python` `PyTorch` `Deep Learning` |
-| 🐾 **PawPrint** | Plataforma móvil de servicios veterinarios a domicilio — UX/UI e implementación | `Figma` `Mobile Dev` `UX Design` |
+<div align="center">
 
+![Projects](projects-cards.svg)
+
+</div>
 ---
 
 ## 📊 Estadísticas
