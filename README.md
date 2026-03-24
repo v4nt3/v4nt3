@@ -1,12 +1,10 @@
 <div align="center">
 
-```
-  ✦ ─────────────────────────────────────────────────── ✦
-         G I S S E L   V A N E S S A   Q U I T I Á N
-  ✦ ─────────────────────────────────────────────────── ✦
-```
+![Header](banners/header.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&size=18&duration=3500&pause=1000&color=8B6914&center=true&vCenter=true&width=620&lines=Ingeniería+en+Sistemas+%26+Multimedia;Frontend+Developer+%7C+Figma+Prototyping;Deep+Learning+%26+Computer+Vision;Game+Dev+%7C+Modelado+3D+%7C+Unity;Always+learning.+Always+building.)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&size=18&duration=3500&pause=1000&color=8B6914&center=true&vCenter=true&width=620&lines=Frontend+Developer+%7C+Figma+Prototyping;Deep+Learning+%26+Computer+Vision;Game+Dev+%7C+Modelado+3D+%7C+Unity;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,9 +16,13 @@
 
 </div>
 
----
+<br/>
 
-<div align="center"><sub>✦ &nbsp; S O B R E &nbsp; M Í &nbsp; ✦</sub></div>
+<div align="center">
+
+![Sobre mí](banners/sobre-mi.svg)
+
+</div>
 
 <br/>
 
@@ -33,21 +35,13 @@
 "Me gusta construir soluciones de software con la sensibilidad visual del diseño multimedia."
 ```
 
----
-
-<div align="center"><sub>✦ &nbsp; Á R E A S &nbsp; D E &nbsp; E N F O Q U E &nbsp; ✦</sub></div>
-
 <br/>
 
 <div align="center">
 
-`  Frontend Dev  ` &nbsp; `  Deep Learning  ` &nbsp; `  Modelado 3D  ` &nbsp; `  Game Dev  ` &nbsp; `  LLMs  ` &nbsp; `  Figma  ` &nbsp; `  APIs REST  `
+![Tecnologías](banners/tecnologias.svg)
 
 </div>
-
----
-
-<div align="center"><sub>✦ &nbsp; H E R R A M I E N T A S &nbsp; &amp; &nbsp; T E C N O L O G Í A S &nbsp; ✦</sub></div>
 
 <br/>
 
@@ -79,50 +73,25 @@
 ![Unity](https://img.shields.io/badge/Unity-fdf6e3?style=flat-square&logo=unity&logoColor=8B6914)
 ![C#](https://img.shields.io/badge/C%23-fdf6e3?style=flat-square&logo=csharp&logoColor=6b4c1e)
 
----
+<br/>
 
-<div align="center"><sub>✦ &nbsp; O B R A S &nbsp; D E S T A C A D A S &nbsp; ✦</sub></div>
+<div align="center">
+
+![Proyectos](banners/proyectos.svg)
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤟 SignBridge</h3>
-      <em>Reconocimiento de lenguaje de señas en tiempo real mediante visión por computadora y Deep Learning.</em>
-      <br/><br/>
-      <sub>Computer Vision · PyTorch · OpenCV</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Shadow Flip</h3>
-      <em>Diseño completo de juego de plataformas: arte, mecánicas de juego y experiencia de usuario.</em>
-      <br/><br/>
-      <sub>Unity · Game Design · C#</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Apnea Classifier</h3>
-      <em>Modelo de clasificación de apnea del sueño mediante Deep Learning sobre señales biomédicas.</em>
-      <br/><br/>
-      <sub>Deep Learning · Python · PyTorch</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐾 PawPrint</h3>
-      <em>Plataforma móvil de servicios veterinarios a domicilio — diseño UX/UI e implementación full-stack.</em>
-      <br/><br/>
-      <sub>Mobile Dev · Figma · UX Design</sub>
-    </td>
-  </tr>
-</table>
+![Projects Grid](banners/projects-grid.svg)
 
----
-
-<div align="center"><sub>✦ &nbsp; E S T A D Í S T I C A S &nbsp; ✦</sub></div>
+</div>
 
 <br/>
 
 <div align="center">
+
+![Estadísticas](banners/estadisticas.svg)
+
+<br/>
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=v4nt3&show_icons=true&title_color=6b4c1e&icon_color=8b6914&text_color=3d2b0e&bg_color=fdf6e3&border_color=c9a84c&count_private=true&include_all_commits=true" />
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4nt3&layout=compact&title_color=6b4c1e&text_color=3d2b0e&bg_color=fdf6e3&border_color=c9a84c&langs_count=6" />
@@ -135,27 +104,25 @@
 
 </div>
 
----
-
-<div align="center"><sub>✦ &nbsp; C O N T R I B U C I O N E S &nbsp; ✦</sub></div>
-
 <br/>
 
 <div align="center">
+
+![Contribuciones](banners/contribuciones.svg)
+
+<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/v4nt3/v4nt3/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-> ⚠️ **Para activar la snake:** sube el archivo `snake.yml` a `.github/workflows/` y ejecuta el workflow desde la pestaña **Actions**.
-
----
-
-<div align="center"><sub>✦ &nbsp; C O R R E S P O N D E N C I A &nbsp; ✦</sub></div>
-
 <br/>
 
 <div align="center">
+
+![Footer](banners/footer.svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visit-8B6914?style=for-the-badge&labelColor=fdf6e3)](https://gisselquitian.vercel.app/)
 &nbsp;
@@ -163,10 +130,4 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/✉_Email-Write-8B6914?style=for-the-badge&logo=gmail&logoColor=8B6914&labelColor=fdf6e3)](mailto:gisselV.quitian@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-<sub>✦ &nbsp; Est. Colombia &nbsp; · &nbsp; Código con alma de diseño &nbsp; · &nbsp; v4nt3 &nbsp; ✦</sub>
 </div>
