@@ -1,0 +1,31 @@
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="230" fill="#fdf6e3"/>
+
+  <rect x="10" y="10" width="378" height="98" fill="#f5efe0" stroke="#c9a84c" stroke-width="1"/>
+  <rect x="14" y="14" width="370" height="90" fill="none" stroke="#c9a84c" stroke-width="0.35"/>
+  <text x="30" y="40" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#1a0f00">🤟 SignBridge</text>
+  <text x="30" y="62" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">Reconocimiento de lenguaje de señas en tiempo</text>
+  <text x="30" y="77" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">real mediante visión por computadora.</text>
+  <text x="30" y="98" font-family="'Courier New', monospace" font-size="10" fill="#8b6914">PyTorch · OpenCV · Deep Learning</text>
+
+  <rect x="412" y="10" width="378" height="98" fill="#f5efe0" stroke="#c9a84c" stroke-width="1"/>
+  <rect x="416" y="14" width="370" height="90" fill="none" stroke="#c9a84c" stroke-width="0.35"/>
+  <text x="432" y="40" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#1a0f00">🎮 Shadow Flip</text>
+  <text x="432" y="62" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">Diseño completo de juego de plataformas —</text>
+  <text x="432" y="77" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">arte, mecánicas y experiencia de usuario.</text>
+  <text x="432" y="98" font-family="'Courier New', monospace" font-size="10" fill="#8b6914">Unity · C# · Game Design</text>
+
+  <rect x="10" y="122" width="378" height="98" fill="#f5efe0" stroke="#c9a84c" stroke-width="1"/>
+  <rect x="14" y="126" width="370" height="90" fill="none" stroke="#c9a84c" stroke-width="0.35"/>
+  <text x="30" y="152" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#1a0f00">🧠 Apnea Classifier</text>
+  <text x="30" y="174" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">Clasificación de apnea del sueño mediante</text>
+  <text x="30" y="189" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">Deep Learning sobre señales biomédicas.</text>
+  <text x="30" y="210" font-family="'Courier New', monospace" font-size="10" fill="#8b6914">Python · PyTorch · Deep Learning</text>
+
+  <rect x="412" y="122" width="378" height="98" fill="#f5efe0" stroke="#c9a84c" stroke-width="1"/>
+  <rect x="416" y="126" width="370" height="90" fill="none" stroke="#c9a84c" stroke-width="0.35"/>
+  <text x="432" y="152" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#1a0f00">🐾 PawPrint</text>
+  <text x="432" y="174" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">Plataforma móvil de servicios veterinarios</text>
+  <text x="432" y="189" font-family="Georgia, serif" font-size="11" fill="#5a3e1b" font-style="italic">a domicilio — diseño e implementación.</text>
+  <text x="432" y="210" font-family="'Courier New', monospace" font-size="10" fill="#8b6914">Figma · Mobile Dev · UX Design</text>
+</svg>

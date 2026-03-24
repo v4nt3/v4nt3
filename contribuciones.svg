@@ -1,0 +1,8 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="60" fill="#fdf6e3"/>
+  <rect x="4" y="4" width="792" height="52" fill="none" stroke="#c9a84c" stroke-width="0.8"/>
+  <line x1="30" y1="30" x2="220" y2="30" stroke="#c9a84c" stroke-width="0.6"/>
+  <line x1="580" y1="30" x2="770" y2="30" stroke="#c9a84c" stroke-width="0.6"/>
+  <text x="400" y="24" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8b6914" letter-spacing="6">✦  CONTRIBUCIONES  ✦</text>
+  <text x="400" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#6b4c1e" font-style="italic">Rastro de trabajo y aprendizaje continuo</text>
+</svg>
