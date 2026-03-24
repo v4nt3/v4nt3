@@ -20,7 +20,7 @@
 Nombre     →  Gissel Vanessa Quitián Rojas
 Ubicación  →  Colombia 🇨🇴
 Estudios   →  Ingeniería en Sistemas + Ingeniería Multimedia
-Enfoque    →  Frontend · Deep Learning · LLMs · Game Dev · 3D
+Enfoque    →  Frontend · Game Dev · 3D · Deep Learning · LLMs
 Filosofía  →  Código con la sensibilidad visual del diseño multimedia
 ```
 
@@ -39,6 +39,7 @@ Filosofía  →  Código con la sensibilidad visual del diseño multimedia
 **Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -48,6 +49,7 @@ Filosofía  →  Código con la sensibilidad visual del diseño multimedia
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
 
