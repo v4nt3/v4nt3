@@ -69,9 +69,8 @@ Filosofía  →  Código con la sensibilidad visual del diseño multimedia
 ![Projects](projects-cards.svg)
 
 </div>
----
 
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
 
